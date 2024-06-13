@@ -17,8 +17,8 @@ A basic Solidity smart contract for a token called "Sumit" with the symbol "SK" 
 
 ### Open Variables
 
-\string public tokenName}: The token's name.
-\string public tokenSymbol}: The token's symbol.
+- {string public tokenName}: The token's name.
+- {string public tokenSymbol}: The token's symbol.
 - {uint256 public totalSupply}: The token's total supply.
 
 ### Mapping
